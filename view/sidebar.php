@@ -36,26 +36,8 @@
         <div id="mdata" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
           <div class="bg-white py-2 collapse-inner rounded">
             <h6 class="collapse-header">Master Data :</h6>
-            <a class="collapse-item" href="../m_uang/">Kemajuan Uang</a>
-			<a class="collapse-item" href="../m_hutang/">Master Hutang</a>
-			<a class="collapse-item" href="../m_cus/">Master Customer</a>
             <!--<a class="collapse-item" href="../m_transaksi/">Master Transaksi</a>-->
             <a class="collapse-item" href="../m_task/">Master Task</a>
-            <a class="collapse-item" href="../m_task/bulan_lalu.php">Master Task - Bulan Lalu</a>
-            <a class="collapse-item" href="../m_task/tahun_lalu.php">Master Task - Tahun Lalu</a>
-            <!--<a class="collapse-item" href="../m_akun/">Master Akun</a>-->
-            <a class="collapse-item" href="../m_sistem/">Master Sistem</a>
-            
-            <a class="collapse-item" href="../m_kategori/">Master Kategori</a>
-            <a class="collapse-item" href="../m_project/">Master Project</a>
-            <a class="collapse-item" href="../m_pass/">Master Pass</a>
-            <a class="collapse-item" href="../m_agama/">Master Agama</a>
-            <a class="collapse-item" href="../m_kominfo/">Master Bpsdmp</a>
-            <a class="collapse-item" href="../m_youtube/">Master Youtube</a>
-            <a class="collapse-item" href="../m_product/">Master Product</a>
-            <a class="collapse-item" href="../m_cari/">Master Cari</a>
-            <a class="collapse-item" href="../m_ilmu/">Master Ilmu</a>
-            <a class="collapse-item" href="../m_laporan/">Master Laporan</a>
           </div>
         </div>
       </li>
