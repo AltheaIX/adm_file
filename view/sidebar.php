@@ -38,6 +38,7 @@
             <h6 class="collapse-header">Master Data :</h6>
             <!--<a class="collapse-item" href="../m_transaksi/">Master Transaksi</a>-->
             <a class="collapse-item" href="../m_task/">Master Task</a>
+            <a class="collapse-item" href="../../cari">Master File</a>
           </div>
         </div>
       </li>

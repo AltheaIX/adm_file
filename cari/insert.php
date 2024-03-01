@@ -1,6 +1,6 @@
 <?php
 	//require the database connection
-	require_once 'conn.php';
+	require_once '../config.php';
  
 	if(ISSET($_POST['save'])){
  		//setting up the variables

@@ -58,7 +58,7 @@ bottom: .5em;
 			
 			<?php
 	// require the database connection
-	require 'conn.php';
+	require '../config.php';
 	
 	if(ISSET($_POST['search'])){
 ?>

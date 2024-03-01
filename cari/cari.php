@@ -1,6 +1,6 @@
 <?php
 	// require the database connection
-	require 'conn.php';
+	require '../config.php';
 	
 	$stmt = $conn->query('SELECT * FROM m_user WHERE level_id = 0 AND status_aktif = 1');
 	$stmtg = $conn->query('SELECT * FROM m_user WHERE level_id = 4 AND status_aktif = 1 GROUP BY id');

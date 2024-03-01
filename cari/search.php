@@ -1,6 +1,6 @@
 <?php
 	// require the database connection
-	require 'conn.php';
+	require '../config.php';
 	
 	$stmt = $conn->query('SELECT * FROM m_user');
 	$stmtg = $conn->query('SELECT * FROM m_user GROUP BY no_kartu');
