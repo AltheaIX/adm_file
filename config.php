@@ -6,8 +6,8 @@ date_default_timezone_set("Asia/Makassar");
 //echo date("Y/m/d h:i:a");
 
 $host = "localhost"; // nama host anda
-$user = "tugasi_uldb"; // usernames dari host anda
-$pass = "RuEFggSHTgEI"; //password dari host anda
+$user = "root"; // usernames dari host anda
+$pass = ""; //password dari host anda
 $db   = "tugasi_ldb"; // nama database yang anda miliki
 
 try {
